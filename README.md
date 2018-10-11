@@ -27,6 +27,11 @@ https://www.meetup.com/es-ES/GDG-Girona/events/251945220/
 - [Fast A.I](http://course.fast.ai/): World class deep learning free course. If you can code you can learn deep learning
 - [Data Camp Supervised Learning Course](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn): Learn step by step using an interactive platform
 
+### NLP
+- [https://github.com/niderhoff/nlp-datasets](NLP data sets)
+- [https://www.nltk.org/book/](NLKT library): Excelent to learn Python, NLP and Python all at the same time
+- [https://spacy.io/](Spacy library): Faster, Object Oriented and good for products
+
 ### Metups
 #### Meetup 1 - Machine Learning Study Jam - #1 - Saturday, July 14th 2018
 Meetup link: https://www.meetup.com/es-ES/GDG-Girona/events/251945220/
