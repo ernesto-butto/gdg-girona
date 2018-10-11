@@ -31,6 +31,7 @@ https://www.meetup.com/es-ES/GDG-Girona/events/251945220/
 - [NLP data sets](https://github.com/niderhoff/nlp-datasets): To test our code!
 - [NLKT library](https://www.nltk.org/book/): Excelent to learn Python, NLP and Python all at the same time
 - [Spacy library](https://spacy.io/): Faster, Object Oriented and good for products
+- [Readability library](https://github.com/shivam5992/textstat)
 
 ### Metups
 #### Meetup 1 - Machine Learning Study Jam - #1 - Saturday, July 14th 2018
