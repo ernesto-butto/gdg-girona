@@ -16,6 +16,10 @@ https://www.meetup.com/es-ES/GDG-Girona/events/251945220/
 
 - [Panda Introduction](https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=pandas-colab&hl=es-419): Ideal python library manipulating data in Machine Learning
 
+- [Docker scikit learn](https://github.com/smizy/docker-scikit-learn): Simple docker jupyter notebook to run jupyter on the web
+
+- [Anaconda](https://www.anaconda.com/): If you need to work on your computer, this library has all the datascience dependencies required
+
 ### Machine Learning
 - [Simple Machine Learning Recepies](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal): Easy to follow short recepies you can follow and test most of it on Google Colab.
 
@@ -23,7 +27,6 @@ https://www.meetup.com/es-ES/GDG-Girona/events/251945220/
 - [Fast A.I](http://course.fast.ai/): World class deep learning free course. If you can code you can learn deep learning
 - [Data Camp Supervised Learning Course](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn): Learn step by step using an interactive platform
 
-https://github.com/smizy/docker-scikit-learn
 
 ## Meetup 1 - Machine Learning Study Jam - #1 - Saturday, July 14th 2018
 Meetup link: https://www.meetup.com/es-ES/GDG-Girona/events/251945220/
