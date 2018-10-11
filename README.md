@@ -28,9 +28,9 @@ https://www.meetup.com/es-ES/GDG-Girona/events/251945220/
 - [Data Camp Supervised Learning Course](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn): Learn step by step using an interactive platform
 
 ### NLP
-- [https://github.com/niderhoff/nlp-datasets](NLP data sets)
-- [https://www.nltk.org/book/](NLKT library): Excelent to learn Python, NLP and Python all at the same time
-- [https://spacy.io/](Spacy library): Faster, Object Oriented and good for products
+- [NLP data sets](https://github.com/niderhoff/nlp-datasets): To test our code!
+- [NLKT library](https://www.nltk.org/book/): Excelent to learn Python, NLP and Python all at the same time
+- [Spacy library](https://spacy.io/): Faster, Object Oriented and good for products
 
 ### Metups
 #### Meetup 1 - Machine Learning Study Jam - #1 - Saturday, July 14th 2018
