@@ -10,15 +10,18 @@ https://www.meetup.com/es-ES/GDG-Girona/events/251945220/
 ### Python
 
 
-- [Google Colab Notebooks](https://colab.research.google.com): This is the fastest enviroment to start playing with python and machine learning, no need to install anything. If a library is not install just do `!pip install x`
+- [Google Colab Notebooks](https://colab.research.google.com): This is the fastest enviroment to start playing with python and machine learning, no need to install anything. If a library is not availble, to install it just do `!pip install x`
 
 - [Python Programming Fun Video Tutorial](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-): Socratica makes it easy and fun!
 
 - [Panda Introduction](https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=pandas-colab&hl=es-419): Ideal python library manipulating data in Machine Learning
 
 ### Machine Learning
-[Simple Machine Learning Recepies]([https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
-[Googles crash course and more in depth videos](https://developers.google.com/machine-learning/crash-course/)
+- [Simple Machine Learning Recepies](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal): Easy to follow short recepies you can follow and test most of it on Google Colab.
+
+- [Googles crash course and more in depth videos](https://developers.google.com/machine-learning/crash-course/):
+- [Fast A.I](http://course.fast.ai/): World class deep learning free course. If you can code you can learn deep learning
+- [Data Camp Supervised Learning Course](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn): Learn step by step using an interactive platform
 
 https://github.com/smizy/docker-scikit-learn
 
