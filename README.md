@@ -65,4 +65,5 @@ We are working our way up in complexity :)
 #### Meetup 4 - Saturday, October 27 2018
 
 Machine Learning Recipes #4
+
 https://colab.research.google.com/drive/1BgkWrEhqUABZ4LM-EcPHrKS6mtDpRaeq#scrollTo=E7EebLWmNq6f
