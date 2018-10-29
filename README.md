@@ -64,6 +64,12 @@ We are working our way up in complexity :)
 
 #### Meetup 4 - Saturday, October 27 2018
 
-Machine Learning Recipes #4
+En este metup vimos las recetas de ML #4 y #5, en las que hicimos un flujo completo y practico de: Elegir features y labels de un data set, dividirlo en 4 sets: 2 de pruebas y 2 de testing, elegir un clasificador, entrenarlo, y evaluar su porcentaje de precisión. Links en: 
 
-https://colab.research.google.com/drive/1BgkWrEhqUABZ4LM-EcPHrKS6mtDpRaeq#scrollTo=E7EebLWmNq6f
+Receta 1 usando un clasificador existente
+https://colab.research.google.com/drive/1BgkWrEhqUABZ4LM-EcPHrKS6mtDpRaeq
+
+Receta 2 escribiendo nuestro clasificador
+https://colab.research.google.com/drive/1AkZHhIf_si6YfNCyNunBPu1A_zXhAfNA
+
+
