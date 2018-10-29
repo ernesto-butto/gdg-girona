@@ -39,28 +39,6 @@ https://www.meetup.com/es-ES/GDG-Girona/events/251945220/
 - [Readability library](https://github.com/shivam5992/textstat): Python package to calculate statistics from text to determine readability, complexity and grade level of a particular corpus.
 
 ### Metups
-#### Meetup 1 - Machine Learning Study Jam - #1 - Saturday, July 14th 2018
-Meetup link: https://www.meetup.com/es-ES/GDG-Girona/events/251945220/
-
-It lasted 4 hours + after beers.
-
-We worked through half of the **ML concepts** course recommended by google: https://developers.google.com/machine-learning/crash-course/
-
-We learned a lot, everyone contributed to the experience, we ate snacks and got to know each other :)
-
-#### Meetup 2 - Machine Learning Study Jam - #2 - Saturday, July 21 2018
-Meetup link:  https://www.meetup.com/es-ES/GDG-Girona/events/252838700/
-
-We finished the pending excersices and minimum work required by Google to complete the study jam.
-
-#### Meetup 3 - Saturday, September 22 2018
-
-After talking to Google's Machine Learning community, and based on their recommendations, we decided to stop the Tensor Flow path for a moment, and pickup other more simpler paths and technnologies to make it easier for everyone.
-Thus we focused on this set of short Google excersices:
-
-https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
-
-We are working our way up in complexity :)
 
 #### Meetup 4 - Saturday, October 27 2018
 
@@ -71,5 +49,30 @@ https://colab.research.google.com/drive/1BgkWrEhqUABZ4LM-EcPHrKS6mtDpRaeq
 
 Receta 2 escribiendo nuestro clasificador
 https://colab.research.google.com/drive/1AkZHhIf_si6YfNCyNunBPu1A_zXhAfNA
+
+#### Meetup 3 - Saturday, September 22 2018
+
+After talking to Google's Machine Learning community, and based on their recommendations, we decided to stop the Tensor Flow path for a moment, and pickup other more simpler paths and technnologies to make it easier for everyone.
+Thus we focused on this set of short Google excersices:
+
+https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
+
+We are working our way up in complexity :)
+
+#### Meetup 2 - Machine Learning Study Jam - #2 - Saturday, July 21 2018
+Meetup link:  https://www.meetup.com/es-ES/GDG-Girona/events/252838700/
+
+We finished the pending excersices and minimum work required by Google to complete the study jam.
+
+#### Meetup 1 - Machine Learning Study Jam - #1 - Saturday, July 14th 2018
+Meetup link: https://www.meetup.com/es-ES/GDG-Girona/events/251945220/
+
+It lasted 4 hours + after beers.
+
+We worked through half of the **ML concepts** course recommended by google: https://developers.google.com/machine-learning/crash-course/
+
+We learned a lot, everyone contributed to the experience, we ate snacks and got to know each other :)
+
+
 
 
