@@ -5,7 +5,7 @@
 # Meetup Page
 https://www.meetup.com/es-ES/GDG-Girona/events/251945220/
 
-## Resources
+## A.I Resources
 
 ### Development Tools
 
@@ -39,6 +39,12 @@ https://www.meetup.com/es-ES/GDG-Girona/events/251945220/
 - [Readability library](https://github.com/shivam5992/textstat): Python package to calculate statistics from text to determine readability, complexity and grade level of a particular corpus.
 
 ### Metups
+
+#### Meetup 5. Flutter. 13 - 2 - 2019
+ [Event page and notes](FLUTTER.md)
+
+ Flutter es una tecnología relativamente nueva desarrollada por Google para desarrollar aplicaciones móviles nativas, con una sola base de código que funciona para iOS y Android.
+ 
 
 #### Meetup 4 - Saturday, October 27 2018
 
