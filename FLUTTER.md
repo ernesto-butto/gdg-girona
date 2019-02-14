@@ -9,9 +9,12 @@ https://flutter.io/docs/get-started/install
 
 # Log
 
-## Last state
-Ya hice la instalacion, ver de manera virtualizada, y hot reload. Proximo paso:
+Next step: https://flutter.io/docs/get-started/codelab#step-4-create-an-infinite-scrolling-listview
 
+Created repo in https://github.com/poolebu/gdg_girona_flutter_app 
+
+## Last state
+Created the project in 
 https://flutter.io/docs/get-started/codelab
 
 ## Local Install

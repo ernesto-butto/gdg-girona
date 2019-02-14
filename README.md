@@ -42,6 +42,7 @@ https://www.meetup.com/es-ES/GDG-Girona/events/251945220/
 
 #### Meetup 5. Flutter. 13 - 2 - 2019
  [Event page and notes](FLUTTER.md)
+ [Created repo in](https://github.com/poolebu/gdg_girona_flutter_app )
 
  Flutter es una tecnología relativamente nueva desarrollada por Google para desarrollar aplicaciones móviles nativas, con una sola base de código que funciona para iOS y Android.
  
