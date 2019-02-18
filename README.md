@@ -5,6 +5,16 @@
 # Meetup Page
 https://www.meetup.com/es-ES/GDG-Girona/events/251945220/
 
+## Flutter Resources
+
+Worshop Project: https://github.com/poolebu/gdg_girona_flutter_app
+Flutter Getting Started : https://flutter.io/docs/get-started/codelab
+Log: https://github.com/poolebu/gdg-girona/blob/master/FLUTTER.md
+
+### Other links
+Sample Flutter App: https://medium.com/2dimensions/the-history-of-everything-981d989e1b45
+
+
 ## A.I Resources
 
 ### Development Tools
