@@ -50,6 +50,32 @@ Sample Flutter App: https://medium.com/2dimensions/the-history-of-everything-981
 
 ### Metups
 
+
+
+#### Meetup 6. Flutter. 21 - 4 - 2019
+
+En el último Meetup, Oriol nos presentó una app en funcionando la cual constuyó usando Flutter, que se conecta exitosamente conectandose a Spotify.
+
+Pueden ver imágenes de la app en https://www.meetup.com/es-ES/GDG-Girona/events/260423520/
+
+EL código lo pueden conseguiren el link: https://github.com/oriolj/gdg_girona_flutter_spotify.
+
+La app GDG Girona Flutter Spotify se:
+
+- Registra en Spotify con la cuenta del usuario
+- Pide permiso de lectura de su informacion
+- Guarda y reusa el token para accessos futuros
+- Muestra un buscador por artistas en donde se muestran:
+   - La foto del artista
+   - Un indice de popularidad del 0 al 100, donde 100 es el artista mas popular de spotify
+   - Un boton funcional para ir al artista en la app de Spotify.
+
+Aprendimos mucho sobre las ventajas de Dart y lo productivo que es el lenguaje, la practicalidad de las llamadas asincronas en Flutter usando conceptos como Future, async y wait, lo bien que funciona el compilador para evitar el mínimo de errores en tiempo de ejecución, y lo bien que están diseñados el concepto de widgets de tal manera que permiten un gran rango creativo si se combinan entre sí. 
+
+Al final de la jornada, disfrutamos de una pizza :)
+
+La fecha tentativa para el proximo meetup es para el 25 o 26 de mayo, en donde seguiremos trabajando con Dart, y estamos evaluando como integrarlo con alguna rama de inteligencia artificial para aumentar nuestra experiencia en estas tecnologías.
+
 #### Meetup 5. Flutter. 13 - 2 - 2019
  [Event page and notes](FLUTTER.md)
  
