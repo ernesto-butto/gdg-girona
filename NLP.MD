@@ -9,4 +9,6 @@ Collab URL Spacy Getting Started: https://colab.research.google.com/drive/1ghhf6
 
 Collab URL Spacy Ernesto : https://colab.research.google.com/drive/1meihSx40gb35D9JBRo1hWZAXvRBciJF-
 
+spaCy Procesing Pipelines Reference: https://spacy.io/usage/processing-pipelines
 
+spaCy Universe https://spacy.io/universe
