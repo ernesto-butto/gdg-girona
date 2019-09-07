@@ -12,3 +12,5 @@ Collab URL Spacy Ernesto : https://colab.research.google.com/drive/1meihSx40gb35
 spaCy Procesing Pipelines Reference: https://spacy.io/usage/processing-pipelines
 
 spaCy Universe https://spacy.io/universe
+
+Unsupervised Topic Modelling: https://towardsdatascience.com/nlp-extracting-the-main-topics-from-your-dataset-using-lda-in-minutes-21486f5aa925
